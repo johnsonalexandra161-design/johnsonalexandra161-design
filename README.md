@@ -1,5 +1,3 @@
-<img src="https://storage.googleapis.com/prompt-gallery/prod/93985724-f7c8-47c3-b0f1-460d376f9d4c/0/93985724-f7c8-47c3-b0f1-460d376f9d4c.jpeg" alt="A sleek, vector-style portrait of a contemporary designer named Alexandra. She is seated at a minimalist desk with a digital drawing tablet, a color palette beside her, and soft pastel lighting. The background features subtle geometric patterns and the phrase 'Design is Thinking Made Visible' in elegant typography."/>
-
 # Hello, I'm Alexandra Johnson (She/Her)
 
 ### UI/UX Designer & Front-End Developer based in Berlin, Germany 🇩🇪
